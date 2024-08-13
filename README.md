@@ -7,7 +7,7 @@ Welcome to the Aviation Instrument Trainer project. This repository contains gen
 This project aims to develop a scalable and interactive training environment for new students learning complex aircraft systems. It will establish an architectural framework for aircrew training, allowing them to learn and master tasks before using full-flight simulators or aircraft.
 The solution aims to enhance training methods for the USAF.
 
-[![Watch the video](images/intro_thumbnail.gif)](images/demo_trainer.mp4)
+[![Watch the video](images/intro_thumbnail.gif)](https://youtu.be/lrRuttLS77g)
 
 ## Tech Stack Used in this Project
 
